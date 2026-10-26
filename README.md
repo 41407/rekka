@@ -5,6 +5,8 @@
 
 --DONE---------------------------------------------------------------------------
 
+  Docking lever can be used to dock to space station
+
   Some kind of overlay should tell player is looking at an interactable itum
   Cool overlay or something should indicate when Ratti can be entered
   Some kind of overlay should show that player is currently controlling an itum
@@ -24,7 +26,6 @@
 
 --TODO (coming up next)----------------------------------------------------------
 
-  Docking lever can be used to dock to space station
   Space station can be boarded
 
 -- BACKLOG------------------------------------------------------------------------
