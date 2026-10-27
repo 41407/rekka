@@ -5,6 +5,7 @@
 
 --DONE---------------------------------------------------------------------------
 
+  Ratti should control ship thrusters instead of simply moving ship
   Docking lever can be used to dock to space station
 
   Some kind of overlay should tell player is looking at an interactable itum
@@ -26,11 +27,15 @@
 
 --TODO (coming up next)----------------------------------------------------------
 
+  Ship airlock can be entered
   Space station can be boarded
+  Screenshake when pulling the docking lever while not prefectly matched
+  Docking has sound that depends on match quality
 
 -- BACKLOG------------------------------------------------------------------------
 
-  Ratti should control ship thrusters instead of simply moving ship
+  Ship airlock behaviour depends on outer environment
+  Ship controls should be disabled while docked
   Traversal between local volumes via wormholes
   Traversal between local volumes via hyperdrive
   Player character should be able to maneuver in zero gravity
